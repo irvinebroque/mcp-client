@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "@cloudflare/vite-plugin": "^1.0.0",
+    "@cloudflare/vite-plugin": "^1.0.9",
     "@modelcontextprotocol/sdk": "^1.8.0",
     "@vitejs/plugin-react": "^4.3.4",
     "agents": "^0.0.54",
