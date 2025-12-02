@@ -11,7 +11,7 @@
   "author": "",
   "dependencies": {
     "@cloudflare/vite-plugin": "^1.0.0",
-    "@modelcontextprotocol/sdk": "^1.8.0",
+    "@modelcontextprotocol/sdk": "^1.24.0",
     "@vitejs/plugin-react": "^4.3.4",
     "agents": "^0.0.54",
     "react": "^19.1.0",
